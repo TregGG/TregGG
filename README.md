@@ -1,4 +1,4 @@
-![](https://github.com/TregGG/TregGG/loop.gif)
+![](https://github.com/TregGG/TregGG/blob/main/loop.gif)
 
 ## Hi there! 👋
 
