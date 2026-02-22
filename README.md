@@ -25,15 +25,4 @@ Currently, I am working on various game projects, focusing on C++ and OpenGL. I 
 - [Shawnty Engine](https://github.com/TregGG/ShawntyEngine) - A 2D Game Engine in C++ And OpenGL using GLFW and GLAD (Stars: 0, Language: C++)  
 - [cppataria](https://github.com/TregGG/cppataria) - Made completely in C++ using Walnut Framework. 2D multiplayer game for desktops (Stars: 0, Language: C++)
 
-## GitHub Stats
 
-🔭 I have **14** public repositories. 
-👥 I have **1** follower and I'm following **2** users. 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TregGG&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created [PixelPaint](https://github.com/TregGG/PixelPaint) on 2025-12-21.
-- Merged pull request #10 in [keriso](https://github.com/mdgspace/keriso) on 2025-12-16.
-- Opened pull request #10 in [keriso](https://github.com/mdgspace/keriso) on 2025-12-15.
-- Pushed to [keriso](https://github.com/TregGG/keriso) on 2025-12-14.
