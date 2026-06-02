@@ -22,7 +22,6 @@ Currently, I am working on various game projects, focusing on C++ and OpenGL. I 
 ## Top Projects
 
 - [PixelPaint](https://github.com/TregGG/PixelPaint) - 2D Sprite renderer in OpenGL and C++ (Stars: 0, Language: C++)
-- [Shawnty Engine](https://github.com/TregGG/ShawntyEngine) - A 2D Game Engine in C++ And OpenGL using GLFW and GLAD (Stars: 0, Language: C++)  
 - [cppataria](https://github.com/TregGG/cppataria) - Made completely in C++ using Walnut Framework. 2D multiplayer game for desktops (Stars: 0, Language: C++)
 
 
